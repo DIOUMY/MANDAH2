@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="BLK11b.css">
+	<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+	<title>BLACK-IDENTITE</title>
+</head>
+<body>
+	<h1><u>BLACK-IDENTITE</u></h1>
+	<hr>
+	<img id="black" src="Image13/AB12.jpg" alt="Erreur404" width="100%" height="100%">
+	<div class="search-box">
+		<input class="search-txt" type="text" name=""  placeholder="Votre recherche...">
+		<a class="search-btn" href="a" type="submit">
+			<i class="fas fa-search"></i>
+		</a> 
+	</div>
+	    <a href="BLK11a.html"><img id="blacko" src="Image13/AB15.jpg" alt="Erreur404" width="20%" height="10%" /></a>
+	    <a id="g1" href="BLK11a.html"><b>ACCUEIL</b></a>
+	    <a href="BLK12a.html"><img id="blacko1" src="Image13/AB9.jpg" alt="Erreur404" width="20%" height="10%" /></a>
+	    <a id="g1a" href="BLK12a.html"><b>A PROPOS DE</b></a>
+	    <a href="BLK13a.html"><img id="blacko2" src="Image13/EHWC3230.jpg" alt="Erreur404" width="20%" height="10%" /></a>
+	    <a id="g1b" href="BLK13a.html"><b>BLOG</b></a>
+	    <a href="BLK14a.html"><img id="blacko3" src="Image13/BLA2.jpg" alt="Erreur404" width="20%" height="10%" /></a>
+	    <a id="g1c" href="BLK14a.html"><b>ADRESSE/CONTACT</b></a>
+	    <a href="BLK15a.html"><img id="blacko4" src="Image13/BLA4.jpg" alt="Erreur404" width="20%" height="10%" /></a>
+	    <a id="g1d" href="BLK15a.html"><b>COLLECTION</b></a>
+	    
+	    <a href="http://www.facebook.com" target="_blank"><img id="blacko58" src="Image13/facebook.jfif" alt="Erreur404" width="20%" height="10%" /></a>
+	<a href="http://www.instagram.com" target="_blank"><img id="blacko59" src="Image13/instagram.jfif" alt="Erreur404" width="20%" height="10%" /></a>
+	<a href="http://www.whatsapp.com" target="_self"><img id="blacko57" src="Image13/whatsapp.jfif" title="00221774910596" alt="Erreur404" width="20%" height="10%" /></a>
+	     <hr>
+	     <div id="contenu">
+		<h1 align="center"><b><u>SOURCES :</u></b></h1>
+		<a>
+		           <p>  <pre> <b><u>ECRIT PAR :</u></b>                                                                          <b><u>DEVELOPPER PAR :</u></b></h1>                                                                  <u>SITES :</u></b></pre></p>
+			
+		</a>
+		<a><h1> <pre>GILL MANDAH                                 DMGV </pre></h1> </a>
+	</div>
+</body>
+</html>
